@@ -1,5 +1,5 @@
-## Mental-Calculator
-Hier entsteht eine einfache Anwendung, mit der das Kopfrechnen geübt werden kann.
+## Kopfrechener
+Eine Anwendung, mit der das Kopfrechnen geübt werden kann.
 
 # Was gibt es hier zu sehen?
-Die Anwendung wird in Pyhton entwickelt, das Ziel ist es, möglichst niedrigschwellig das Kopfrechnen zu trainieren.
+Die Grundrechenarten können auf verschiede Arten geübt werden. Mittelfristig sollen Übungsaufgaben explizit nach Jahrgangsstufen eingefügt werden.
