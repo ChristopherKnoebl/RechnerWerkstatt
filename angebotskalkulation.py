@@ -533,7 +533,7 @@ def click_differenz():
     lb_selbstkosten_wert = tkinter.Label(neues_fenster, relief="sunken", width=10)
 
     lb_gewinnzuschlag = tkinter.Label(neues_fenster, text="+ Gewinnzuschlag", anchor="w", width=20)
-    lb_gewinnzuschlagssatz = tkinter.Label(neues_fenster, text=f"{Gewinnzuschlagssatz} %")
+    lb_gewinnzuschlagssatz = tkinter.Label(neues_fenster)
     lb_gewinnzuschlag_wert = tkinter.Label(neues_fenster, relief="sunken", width=10)
 
     lb_barverkaufspreis = tkinter.Label(neues_fenster, text="= Barverkaufspreis", anchor="w", width=20)
