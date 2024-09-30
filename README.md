@@ -7,6 +7,10 @@ Um dies zu unterstützen gibt es hier Anwendungen, mit denen allgemein die Mathe
 
 # Grundrechenarten
 Die elementaren Rechenarten festigen sich am besten durch regelmäßges Üben, hier können neue Aufgaben generiert werden.
+## Entwicklungsstand
+Das Modul ist auf Grundlage der objektorientierten Programmierung umgebaut worden. Die grafische Oberfläche steht, die Rechnungen sind noch zu implementieren.
 
 # Angebotskalkulation
 Im kaufmännischen Rechen wird der Preis eines Produktes oder einer Dienstleistung abhänging von Rabatt, Skonti u.Ä. kalkuliert. Hier kann diese Rechenweise eingeübt werden.
+## Entwicklungsstand
+Die Angebotskalkulation ist in einer ersten Version fertig. Als nächstes wird das Modul zu einer Klasse umgebaut.
